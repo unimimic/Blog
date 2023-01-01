@@ -1,0 +1,35 @@
+name: github pages
+
+on:
+  push:
+    branches:
+      - master  # Set a branch to deploy
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: true  # Fetch Hugo themes (true OR recursive)
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: '0.109.0'
+          extended: true
+
+      - name: Build
+        run: hugo --minify
+      
+      - name: cp
+        run: cp google21cba9da185e2600.html public
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          external_repository: unimimic/unimimic.github.io
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./public
+          publish_branch: master
