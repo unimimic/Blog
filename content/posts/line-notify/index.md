@@ -1,5 +1,5 @@
 ---
-title:       "使用 python 和快速製作LINE Notify"
+title:       "使用 python 快速製作LINE Notify"
 description: "展示如何使用python製作推播通知"
 date:         2022-12-29
 tags:        ["教學", "python", "LINE", "快速", "Notify", "推播"]
