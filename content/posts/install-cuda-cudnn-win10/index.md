@@ -28,7 +28,7 @@ draft: false
 ### 📌查詢顯卡最高支援的 CUDA 版本
 - `桌面右鍵 -> NVIDIA 控制面板 -> 左下角的系統資訊 -> 元素`。以`GeForce RTX 2080 SUPER`為例，最高支援10.1.120版本的cuda。
 
-![Untitled.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled.png)
+![Untitled.png](images/Untitled.png " ")
 
 ### 📌確認是否要更新驅動
 
@@ -45,19 +45,19 @@ draft: false
 - 點擊CUDA安裝程式開始進行安裝。過程中需要注意安裝選項要選擇自訂，以及安裝元件只要選擇CUDA即可。
 - 測試 CUDA 是否安裝成功。在命令列輸入指令`nvcc -V`，安裝成功會輸出 CUDA 版本資訊。
 
-![Untitled 1.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled_1.png)
+![Untitled 1.png](images/Untitled_1.png " ")
 
-![Untitled 2.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled_2.png)
+![Untitled 2.png](images/Untitled_2.png " ")
 
-![Untitled 3.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled_3.png)
+![Untitled 3.png](images/Untitled_3.png " ")
 
-![Untitled 4.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled_4.png)
+![Untitled 4.png](images/Untitled_4.png " ")
 
-![Untitled 5.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled_5.png)
+![Untitled 5.png](images/Untitled_5.png " ")
 
-![Untitled 6.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled_6.png)
+![Untitled 6.png](images/Untitled_6.png " ")
 
-![Untitled 7.png](Windows%E5%AE%89%E8%A3%9DCUDA%E5%92%8CcuDNN%20ca5148b246b6468cacb98a11c0f93fa0/Untitled_7.png)
+![Untitled 7.png](images/Untitled_7.png " ")
 
 ### 📌 安裝cuDNN
 

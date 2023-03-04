@@ -24,29 +24,29 @@ draft: false
 
 填上應用程式的一些基本資料，包括名稱、版本。還可以從可用的各種 Windows 版本中選擇安裝程序的目標平台。
 
-![Untitled.png](%E5%85%8D%E8%B2%BB%E6%89%93%E5%8C%85%E5%B7%A5%E5%85%B7InstallForge%20c75524de63764da0a39f4c9e05266a4d/Untitled.png)
+![Untitled.png](images/Untitled.png " ")
 
 ### Setup頁面
 
 添加所有需要打包的檔案。這邊點擊`Add Files` 一次新增檔案，接著在點擊`Add Folder`一個一個新增目錄。
 
-![Untitled 1.png](%E5%85%8D%E8%B2%BB%E6%89%93%E5%8C%85%E5%B7%A5%E5%85%B7InstallForge%20c75524de63764da0a39f4c9e05266a4d/Untitled_1.png)
+![Untitled 1.png](images/Untitled_1.png " ")
 
 勾選`Include Uninstaller` ，往後可以直接解除程式使用。
 
-![Untitled 2.png](%E5%85%8D%E8%B2%BB%E6%89%93%E5%8C%85%E5%B7%A5%E5%85%B7InstallForge%20c75524de63764da0a39f4c9e05266a4d/Untitled_2.png)
+![Untitled 2.png](images/Untitled_2.png " ")
 
 ### System頁面
 
 添加桌面應用程式捷徑，
 
-![Untitled 3.png](%E5%85%8D%E8%B2%BB%E6%89%93%E5%8C%85%E5%B7%A5%E5%85%B7InstallForge%20c75524de63764da0a39f4c9e05266a4d/Untitled_3.png)
+![Untitled 3.png](images/Untitled_3.png " ")
 
 ### Build頁面
 
 輸入安裝包路徑以及安裝包名稱，點擊Build開始建構安裝檔。
 
-![Untitled 4.png](%E5%85%8D%E8%B2%BB%E6%89%93%E5%8C%85%E5%B7%A5%E5%85%B7InstallForge%20c75524de63764da0a39f4c9e05266a4d/Untitled_4.png)
+![Untitled 4.png](images/Untitled_4.png " ")
 
 
 ## 進階設定
