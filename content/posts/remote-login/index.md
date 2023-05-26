@@ -1,16 +1,27 @@
 ---
+
 title:  "淺談遠程登錄"
+
 description: "淺談遠程登錄"
+
 date: 2023-12-15
+
 draft: false
+
 categories:
+
 - 技術筆記
+
 tags:
+
 - remote login
 - SSH
+
 keywords:
+
 - remote login
 - SSH
+
 ---
 <!--more-->
 
