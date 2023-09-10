@@ -8,6 +8,8 @@ date: 2023-07-18
 
 draft: false
 
+weight: "10"
+
 categories:
 
 - 技術筆記
