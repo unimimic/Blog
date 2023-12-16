@@ -27,8 +27,8 @@ keywords:
 ---
 <!--more-->
 
-
-以下主要有三大部分，有安裝Docker、安裝Nvidia Driver、安裝NVIDIA Container Toolkit。其中NVIDIA Container Toolkit 有兩種方法，挑其中一種進行安裝即可。
+- 在 ubuntu 環境進行測試
+- 以下主要有三大部分，有安裝Docker、安裝Nvidia Driver、安裝NVIDIA Container Toolkit。其中NVIDIA Container Toolkit 有兩種方法，挑其中一種進行安裝即可。
 
 ## 安裝Docker
 
